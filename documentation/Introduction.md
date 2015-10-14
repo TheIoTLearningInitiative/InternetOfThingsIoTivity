@@ -1,7 +1,7 @@
 Introduction
 ==
 
-This is are the steps followed to know with IoTivity
+This is are the steps followed to know IoTivity
 
 - [IoTivity Documentation Linux Getting Started](https://www.iotivity.org/documentation/linux/getting-started)
 
