@@ -7,4 +7,4 @@ This is are the steps followed to know IoTivity
 
 
     # apt-get install libboost-dev libboost-program-options-dev libexpat1-dev libboost-thread-dev uuid-dev libssl-dev
-    # apt-get install libglib2.0-dev autoconf libtool
+    # apt-get install libglib2.0-dev autoconf libtool scons
