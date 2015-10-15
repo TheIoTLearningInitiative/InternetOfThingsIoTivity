@@ -11,3 +11,4 @@ This is are the steps followed to know IoTivity
     # git clone https://github.com/01org/tinycbor.git extlibs/tinycbor/tinycbor
     # scons WITH_RA=1 WITH_RA_IBB=1
     # ./auto_build.sh
+    # echo "Android SDK built"
