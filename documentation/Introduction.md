@@ -12,6 +12,7 @@ This is are the steps followed to know IoTivity
 - https://github.com/mwichmann/meta-oic
 - http://git.yoctoproject.org/cgit/cgit.cgi/meta-oic/tree/README?h=master
 - http://slideplayer.com/slide/8777224/
+- http://ardiri.com/blog/iotivity_framework_standard_for_open_source_iot
 
 
 ```sh
