@@ -8,7 +8,9 @@ This is are the steps followed to know IoTivity
 - [IoTivity Documentation Linux Getting Started](https://www.iotivity.org/documentation/linux/getting-started)
 - https://wiki.iotivity.org/running_sample_codes_in_iotivity_0.9_sdk_on_edison
 - https://wiki.iotivity.org/_media/oicsensorboardreadme.pdf
-
+- http://pagealh.com/2015/08/15/intel-edison-investigating-iotivity/
+- https://github.com/mwichmann/meta-oic
+- 
 
 ```sh
     # apt-get install libboost-dev libboost-program-options-dev libexpat1-dev libboost-thread-dev uuid-dev libssl-dev
