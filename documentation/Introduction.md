@@ -10,7 +10,6 @@ This is are the steps followed to know IoTivity
 - https://wiki.iotivity.org/_media/oicsensorboardreadme.pdf
 - http://pagealh.com/2015/08/15/intel-edison-investigating-iotivity/
 - https://github.com/mwichmann/meta-oic
-- https://github.com/mwichmann/meta-oic
 - 
 
 ```sh
