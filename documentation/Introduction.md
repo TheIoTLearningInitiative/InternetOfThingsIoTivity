@@ -3,7 +3,6 @@ Introduction
 
 - [Slashdot The IoT, the MinnowBoard, and How They Fit Into the Universe (Video)](https://hardware.slashdot.org/story/15/08/24/1856256/the-iot-the-minnowboard-and-how-they-fit-into-the-universe-video)
 
-
 This is are the steps followed to know IoTivity
 
 - [IoTivity Documentation Linux Getting Started](https://www.iotivity.org/documentation/linux/getting-started)
