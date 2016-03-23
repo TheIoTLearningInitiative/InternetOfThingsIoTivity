@@ -11,7 +11,7 @@ This is are the steps followed to know IoTivity
 - http://pagealh.com/2015/08/15/intel-edison-investigating-iotivity/
 - https://github.com/mwichmann/meta-oic
 - http://git.yoctoproject.org/cgit/cgit.cgi/meta-oic/tree/README?h=master
-- 
+- http://slideplayer.com/slide/8777224/
 
 
 ```sh
