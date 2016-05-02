@@ -1,4 +1,4 @@
 Introduction
 ==
 
-https://pagealh.com/2015/08/15/intel-edison-investigating-iotivity/
+- [](https://pagealh.com/2015/08/15/intel-edison-investigating-iotivity/)
