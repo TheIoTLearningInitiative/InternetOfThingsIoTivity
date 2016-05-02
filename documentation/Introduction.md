@@ -7,4 +7,6 @@ Introduction
 
 ## Yocto
 
-> Layer containing recipes for building the Open Interconnect Consortium Iotivity framework [meta-oic](http://git.yoctoproject.org/cgit/cgit.cgi/meta-oic/about/)
+> Layer containing recipes for building the Open Interconnect Consortium Iotivity framework
+
+- [yocto Meta-Oic](http://git.yoctoproject.org/cgit/cgit.cgi/meta-oic/about/)
