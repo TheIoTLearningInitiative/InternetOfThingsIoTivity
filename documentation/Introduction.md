@@ -1,6 +1,10 @@
 Introduction
 ==
 
+# What is IoTivity?
+>IoTivity is an open source software framework enabling seamless device-to-device connectivity to address the emerging needs of the Internet of Things.
+>
+
 - [](https://pagealh.com/2015/08/15/intel-edison-investigating-iotivity/)
 - [](http://events.linuxfoundation.org/sites/events/files/slides/LFPresentationSlides.pdf)
 - [](https://github.com/intelmakers/GETTING-STARTED/wiki/Options-for-installing-IoTivity-stack-on-Edison)
