@@ -12,4 +12,5 @@
   >Plugin the Intel Edison board to the computer and make sure both USB cables are pluged in.
   >Run the script typing ```./flashall.sh```, follow on-screen instructions and verify the following output is the same as the one below.
   >![](FlashAllScript.png)
-  >
+  >Type ```sudo screen /dev/ttyUSB0 115200``` to enter the Edison through the terminal, if screen is not installed install it with ```sudo apt-get install screen```. 
+  >At this moment, the Edison will ask for the edison login, type ```root``` and now we are in our Edison. If this is not the case, verify you followed all the steps above correctly and typed ```root``` right.
