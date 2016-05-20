@@ -10,10 +10,13 @@ Introduction
 >IoTivity will deliver an open source reference implementation of the OIC standard specifications, yet will not be limited to those requirements.
 
 
-
 ## Open Source License
 >IoTivity code contributions are shared under the Apache 2.0 license.
 
+# Architecture
+>The IoTivity architectural goal is to create a new standard by which billions of wired and wireless devices will connect to each other and to the internet. The goal is an extensible and robust architecture that works for smart and thin devices.
+
+![](iotivity-architecture-small-v01.png)
 
 ## Yocto
 
