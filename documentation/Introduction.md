@@ -17,6 +17,15 @@ Introduction
 >The IoTivity architectural goal is to create a new standard by which billions of wired and wireless devices will connect to each other and to the internet. The goal is an extensible and robust architecture that works for smart and thin devices.
 
 ![](iotivity-architecture-small-v01.png)
+![](http://i.stack.imgur.com/LCHmZ.png)
+
+## Supported Platforms
+* Android
+* Arduino
+* Linux
+* Tizen
+* Yocto
+
 
 ## Yocto
 
