@@ -1,5 +1,6 @@
 # Pre-Work
 
+
 ## IoT DevKit 3.0
 
 >For this tutorial we are going to use the Intel® IoT Developer Kit v3.0 release dated in 20160315. [You can click here to download the image,](https://downloadmirror.intel.com/25871/eng/iot-devkit-prof-dev-image-edison-20160315.zi or copy and paste the following link https://downloadmirror.intel.com/25871/eng/iot-devkit-prof-dev-image-edison-20160315.zip , this version is used because the OS images and repositories are updated to include several popular and useful packages for development, such as Git, Vim, Nano, IoTivity, pip, and many more.
