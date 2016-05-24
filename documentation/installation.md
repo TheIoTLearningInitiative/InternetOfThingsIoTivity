@@ -13,7 +13,11 @@ https://www.iotivity.org/documentation/linux/getting-started
 *[Downloading most stable source from here.](https://www.iotivity.org/downloads)
 *Getting source directly from gerrit.
 >Download the source code and untar in a working folder.
->Once we have the source code in our folder, we need to do the following steps specified in the documentation page:
+>Inside the source code folder, clone the following repository.
+
+```git clone https://github.com/01org/tinycbor.git extlibs/tinycbor/tinycbor```
+
+>To finish the IoTivity setup, make sure an internet connection is stablish and follow the following steps specified in the getting started page.
 *Build the IoTivity project for Linux
 *Run a sample
 *Build the API reference documentation
