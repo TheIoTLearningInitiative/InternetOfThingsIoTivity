@@ -13,7 +13,10 @@ https://www.iotivity.org/documentation/linux/getting-started
 *[Downloading most stable source from here.](https://www.iotivity.org/downloads)
 *Getting source directly from gerrit.
 >Download the source code and untar in a working folder.
->
+>Once we have the source code in our folder, we need to do the following steps specified in the documentation page:
+*Build the IoTivity project for Linux
+*Run a sample
+*Build the API reference documentation
 
 
 ## IoTivity Gerrit
