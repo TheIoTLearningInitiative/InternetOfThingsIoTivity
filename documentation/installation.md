@@ -14,13 +14,18 @@ https://www.iotivity.org/documentation/linux/getting-started
 *Getting source directly from gerrit.
 >Download the source code and untar in a working folder.
 >Inside the source code folder, clone the following repository.
-
-```git clone https://github.com/01org/tinycbor.git extlibs/tinycbor/tinycbor```
-
+>We need to modify a line in a source file. ```git clone https://github.com/01org/tinycbor.git extlibs/tinycbor/tinycbor```
 >To finish the IoTivity setup, make sure an internet connection is stablish and follow the following steps specified in the getting started page.
 *Build the IoTivity project for Linux
 *Run a sample
 *Build the API reference documentation
+
+### Errors so far
+>Whenever we try to run scons tu build, it shows the following error:
+>scons: building terminated because of errors.
+```/usr/local/include/boost/utility/addressof.hpp:59:47: error: call of overloaded 'f(boost::detail::addr_impl_ref<std::nullptr_t>, int)' is ambiguous
+     return boost::detail::addressof_impl<T>::f( boost::detail::addr_impl_ref<T```
+
 
 
 ## IoTivity Gerrit
