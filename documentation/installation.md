@@ -31,6 +31,6 @@ https://www.iotivity.org/documentation/linux/getting-started
 >Figured out.
 >Access with root to the following file with your simple text editor of preference ```/usr/local/include/boost/utility/addressof.hpp```, there is a line with the following code ```static inline T * f( T * v, int )```, change int for long resulting in ```static inline T * f( T * v, long )```.
 >Build again, it should build successfully.
-
+>Status so far: Build successful but it is not creating executables under ```resource/examples```.
 ## IoTivity Gerrit
 
