@@ -20,15 +20,17 @@ https://www.iotivity.org/documentation/linux/getting-started
 *Run a sample
 *Build the API reference documentation
 
-### Errors so far
+### Errors and Solutions
 >In one of the IoTivity versions, there is one line of code that is wrong but fixed in the master branch in Github.
->In the file ```BundleInfoInternal.cpp``` under the path ```iotivity/service/resource-container/src/```, in the ```BundleInfoInternal::BundleInfoInternal()``` constructor the variable m_so_bundle is assigned to nullptr, it should be false. Modify this and build (run scons) in the root of IoTivity folder.
->Whenever we try to run scons tu build, it shows the following error:
->scons: building terminated because of errors.
->/usr/local/include/boost/utility/addressof.hpp:59:47: error: call of overloaded f(boost::detail::addr_impl_ref std::nullptr_t int) is ambiguous....
->Status: Figuring out how to fix this error
-
-### Solutions
+>In the file ```BundleInfoInternal.cpp``` under the path ```iotivity/service/resource-container/src/```, in the ```BundleInfoInternal::BundleInfoInternal()``` constructor the variable m_so_bundle is assigned to nullptr, it should be false. Modify this and build (run scons) in the root of IoTivity folder. 
+>If we get the error below:
+  >Whenever we try to run scons tu build, it shows the following error:
+  >scons: building terminated because of errors.
+  >/usr/local/include/boost/utility/addressof.hpp:59:47: error: call of overloaded f(boost::detail::addr_impl_ref std::nullptr_t int) is ambiguous....
+  >Status: Figuring out how to fix this error
+>Figured out.
+>Access with root to the following file with your simple text editor of preference ```/usr/local/include/boost/utility/addressof.hpp```, there is a line with the following code ```static inline T * f( T * v, int )```, change int for long resulting in ```static inline T * f( T * v, long )```.
+>Build again, it should build successfully.
 
 ## IoTivity Gerrit
 
