@@ -21,12 +21,13 @@ https://www.iotivity.org/documentation/linux/getting-started
 *Build the API reference documentation
 
 ### Errors so far
+>In one of the IoTivity versions, 
 >Whenever we try to run scons tu build, it shows the following error:
 >scons: building terminated because of errors.
-```/usr/local/include/boost/utility/addressof.hpp:59:47: error: call of overloaded 'f(boost::detail::addr_impl_ref<std::nullptr_t>, int)' is ambiguous
-     return boost::detail::addressof_impl<T>::f( boost::detail::addr_impl_ref<T```
+>/usr/local/include/boost/utility/addressof.hpp:59:47: error: call of overloaded f(boost::detail::addr_impl_ref std::nullptr_t int) is ambiguous....
+>Status: Figuring out how to fix this error
 
-Status: Figuring out how to fix this error
-
+### Solutions
 
 ## IoTivity Gerrit
+
