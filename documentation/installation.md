@@ -21,7 +21,8 @@ https://www.iotivity.org/documentation/linux/getting-started
 *Build the API reference documentation
 
 ### Errors so far
->In one of the IoTivity versions, 
+>In one of the IoTivity versions, there is one line of code that is wrong but fixed in the master branch in Github.
+>The file ```BundleInfoInternal.cpp``` under the path ```iotivity/service/resource-container/src/``` 
 >Whenever we try to run scons tu build, it shows the following error:
 >scons: building terminated because of errors.
 >/usr/local/include/boost/utility/addressof.hpp:59:47: error: call of overloaded f(boost::detail::addr_impl_ref std::nullptr_t int) is ambiguous....
