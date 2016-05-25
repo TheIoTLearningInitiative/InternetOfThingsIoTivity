@@ -37,4 +37,4 @@ https://www.iotivity.org/documentation/linux/getting-started
 
 ### Continue Set-Up
 >Now, under the current directory of examples, run ```./simpleserver```, is an example of a simple server using the observer pattern, when we run it, a resource will be created and it will be waiting for a subscriber. In another terminal and under the same working directory, run ```./simpleclient```.
->Now, the subscriber called simpleclient will begin to find resources and to send and receive data, the data will be displayed in both terminals. 
+>Now, the subscriber called simpleclient will begin to find resources and to send and receive data, the data will be displayed in both terminals showing a sucessfull connection with IoTivity.
