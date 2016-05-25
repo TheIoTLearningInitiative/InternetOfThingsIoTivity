@@ -33,7 +33,8 @@ https://www.iotivity.org/documentation/linux/getting-started
 >Build again, it should build successfully.
 >Status so far: Build successful but it is not creating executables under ```resource/examples```.
 >Solution found.
->After the successful build, the folder that has the executables is not the same as the folder in the guide, the folder with the executables is ```iotivity/out/linux/x86_64/release/resource/examples``` or ```iotivity-1.1.0/out/linux/x86_64/release``` if we downloaded the code from the website, under our IoTivity working directory.
->
-## IoTivity Gerrit
+>After the successful build, the folder that has the executables is not the same as the folder in the guide, the folder with the executables is ```iotivity/out/linux/x86_64/release/resource/examples``` or ```iotivity-1.1.0/out/linux/x86_64/release/resource/examples``` if we downloaded the code from the website, under our IoTivity working directory.
+
+### Continue Set-Up
+>Now, under the current directory 
 
