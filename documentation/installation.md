@@ -36,5 +36,5 @@ https://www.iotivity.org/documentation/linux/getting-started
 >After the successful build, the folder that has the executables is not the same as the folder in the guide, the folder with the executables is ```iotivity/out/linux/x86_64/release/resource/examples``` or ```iotivity-1.1.0/out/linux/x86_64/release/resource/examples``` if we downloaded the code from the website, under our IoTivity working directory.
 
 ### Continue Set-Up
->Now, under the current directory 
+>Now, under the current directory of examples, run ```./simpleserver```, is an example of a simple server using the observer pattern, when we run it, a resource will be created and it will be waiting for a subscriber. In another terminal and under the same working directory, run ```./simpleclient```
 
