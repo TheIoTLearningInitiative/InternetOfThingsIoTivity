@@ -32,5 +32,8 @@ https://www.iotivity.org/documentation/linux/getting-started
 >Access with root to the following file with your simple text editor of preference ```/usr/local/include/boost/utility/addressof.hpp```, there is a line with the following code ```static inline T * f( T * v, int )```, change int for long resulting in ```static inline T * f( T * v, long )```.
 >Build again, it should build successfully.
 >Status so far: Build successful but it is not creating executables under ```resource/examples```.
+>Solution found.
+>After the successful build, the folder that has the executables is not the same as the folder in the guide, the folder with the executables is ```iotivity/out/linux/x86_64/release/resource/examples``` or ```iotivity-1.1.0/out/linux/x86_64/release``` if we downloaded the code from the website, under our IoTivity working directory.
+>
 ## IoTivity Gerrit
 
