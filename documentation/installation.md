@@ -1,4 +1,5 @@
-# Installation
+# Computer
+##Installation
 >The following guide provides instructions and resources to help developers set up the development environment, build the IoTivity stack and build sample applications on Ubuntu for a Linux target. Developers should also read the IoTivity Programmer's Guide before starting development to better understand IoTivity architecture and use cases.
 
 [https://www.iotivity.org/documentation/linux/getting-started
@@ -35,6 +36,8 @@ https://www.iotivity.org/documentation/linux/getting-started
 >Solution found.
 >After the successful build, the folder that has the executables is not the same as the folder in the guide, the folder with the executables is ```iotivity/out/linux/x86_64/release/resource/examples``` or ```iotivity-1.1.0/out/linux/x86_64/release/resource/examples``` if we downloaded the code from the website, under our IoTivity working directory.
 
-### Finish Set-Up
+## Finish Set-Up
 >Now, under the current directory of examples, run ```./simpleserver```, is an example of a simple server using the observer pattern, when we run it, a resource will be created and it will be waiting for a subscriber. In another terminal and under the same working directory, run ```./simpleclient```.
 >Now, the subscriber called simpleclient will begin to find resources and to send and receive data, the data will be displayed in both terminals showing a sucessfull connection with IoTivity.
+
+#Edison
