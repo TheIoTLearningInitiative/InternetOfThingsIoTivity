@@ -43,3 +43,4 @@ https://www.iotivity.org/documentation/linux/getting-started
 #Edison
 >Iotivity 0.9 SDK
 https://wiki.iotivity.org/running_sample_codes_in_iotivity_0.9_sdk_on_edison
+https://videoportal.intel.com/media/Iotivity+Tutorial+-+Linux+%26+Edison/0_3fmerocs
