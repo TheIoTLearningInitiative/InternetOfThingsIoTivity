@@ -44,3 +44,4 @@ https://www.iotivity.org/documentation/linux/getting-started
 >Iotivity 0.9 SDK
 https://wiki.iotivity.org/running_sample_codes_in_iotivity_0.9_sdk_on_edison
 https://videoportal.intel.com/media/Iotivity+Tutorial+-+Linux+%26+Edison/0_3fmerocs
+>Status: reviewing IoTivity already installed in devkit 3.0, and differences with the one we can download.
