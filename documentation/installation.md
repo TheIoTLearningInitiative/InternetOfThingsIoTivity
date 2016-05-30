@@ -41,3 +41,5 @@ https://www.iotivity.org/documentation/linux/getting-started
 >Now, the subscriber called simpleclient will begin to find resources and to send and receive data, the data will be displayed in both terminals showing a sucessfull connection with IoTivity.
 
 #Edison
+>Iotivity 0.9 SDK
+https://wiki.iotivity.org/running_sample_codes_in_iotivity_0.9_sdk_on_edison
